@@ -1,0 +1,16 @@
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 35px;
+  color: white;
+}
+
+.about img {
+  width: 30%;
+}
+
+.about h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}

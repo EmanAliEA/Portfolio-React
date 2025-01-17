@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #3498db;
+}
+body {
+  background-color: black;
+}
+.container {
+  margin: auto;
+  width: 80%;
+}
+
+.nameColor {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+.vhCom {
+  /* height: 100vh; */
+}
+.arrow {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}

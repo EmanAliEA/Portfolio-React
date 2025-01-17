@@ -1,0 +1,21 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  gap: 60px;
+  margin: auto;
+  margin-top: 300px;
+  /* overflow-y: hidden; */
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3%;
+  margin: auto;
+  width: 100%;
+}
