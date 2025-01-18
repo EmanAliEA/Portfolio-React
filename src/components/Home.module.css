@@ -15,7 +15,7 @@ main {
   margin: auto;
   gap: 10px;
   color: white;
-  font-size: 2.2rem;
+  font-size: 1.8rem;
   /* padding: 2rem 0; */
 }
 main img {
@@ -24,7 +24,7 @@ main img {
 }
 
 .mainText h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   text-transform: uppercase;
 }
 

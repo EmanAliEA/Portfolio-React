@@ -7,6 +7,7 @@ import randomPasswordJs from "../assets/generatePass.png";
 import quizAppJS from "../assets/quizAppJS.png";
 import ageCalJS from "../assets/ageCalJS.png";
 import musicAppJs from "../assets/musicAppJs.png";
+import floosy from "../assets/floosy.png";
 
 const images = [
   {
@@ -91,6 +92,14 @@ Technologies Used: HTML, CSS, JavaScript.`,
     img: musicAppJs,
     git: "https://github.com/EmanAliEA/Music-App",
     live: "https://emanaliea.github.io/Music-App/MusicApp.html",
+  },
+  {
+    title: "Floosy",
+    des: `A simple website. Support dark mode and arabic and english language.
+Technologies Used: HTML, CSS, JavaScript.`,
+    img: musicAppJs,
+    git: "https://github.com/EmanAliEA/DarkMode_Website",
+    live: "https://emanaliea.github.io/DarkMode_Website/",
   },
 ];
 
