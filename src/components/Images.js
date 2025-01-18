@@ -97,7 +97,7 @@ Technologies Used: HTML, CSS, JavaScript.`,
     title: "Floosy",
     des: `A simple website. Support dark mode and arabic and english language.
 Technologies Used: HTML, CSS, JavaScript.`,
-    img: musicAppJs,
+    img: floosy,
     git: "https://github.com/EmanAliEA/DarkMode_Website",
     live: "https://emanaliea.github.io/DarkMode_Website/",
   },
