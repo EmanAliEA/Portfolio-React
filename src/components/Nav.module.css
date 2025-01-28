@@ -20,6 +20,7 @@ nav {
   list-style-type: none;
   text-transform: capitalize;
   position: relative;
+  cursor: pointer;
 }
 .nav li::after {
   content: "";

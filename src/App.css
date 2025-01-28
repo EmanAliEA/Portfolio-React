@@ -19,9 +19,10 @@ body {
   color: var(--primary-color);
   font-weight: bold;
 }
-.vhCom {
-  /* height: 100vh; */
+.nav li > .active::after {
+  width: 100%;
 }
+
 .arrow {
   position: fixed;
   right: 10px;
